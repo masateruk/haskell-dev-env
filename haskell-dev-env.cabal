@@ -18,12 +18,12 @@ cabal-version:       >=1.8
 library
   exposed-modules:     Util.Sort
   -- other-modules:       
-  build-depends:       base ==4.3.*
+  build-depends:       base ==4.5.*
 
 Test-suite hspec
   Hs-Source-Dirs:      Test
   Main-Is:             Spec.hs
   Other-Modules:       SortSpec
   Type:                exitcode-stdio-1.0
-  build-depends:       base ==4.3.*, hspec ==1.5.*
+  build-depends:       base ==4.5.*, hspec ==1.5.*
                      , QuickCheck==2.6.*, haskell-dev-env
