@@ -18,7 +18,7 @@ cabal-version:       >=1.8
 library
   exposed-modules:     Util.Sort
   -- other-modules:       
-  build-depends:       base ==4.6.*, hspec ==1.5.*, HUnit ==1.2.*
+  build-depends:       base ==4.6.*
 
 Test-suite hspec
   Hs-Source-Dirs:      Test
