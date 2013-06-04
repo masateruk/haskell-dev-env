@@ -3,7 +3,7 @@
 
 name:                haskell-dev-env
 version:             0.1.0.0
-synopsis:            Sample project
+synopsis:            Sample project 
 -- description:         
 homepage:            https://github.com/masateruk/haskell-dev-env
 license:             BSD3
